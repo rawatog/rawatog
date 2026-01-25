@@ -17,15 +17,13 @@ Currently learning and building real-world projects with:
 
 ## 🚀 Projects
 
-### 📸 [Wally – Image Upload & Management App](https://github.com/mjrwt69/wally)
+### 📸 [Wally – Image Upload & Management App](https://github.com/rawatog/wally)
 A full-stack image manager built with Django, React, AWS S3, and JWT auth.  
 **Features:** Upload images, secure login, responsive gallery, Dockerized and deployed to AWS EC2.
 
-### ☁️ [Cloud Infra Templates](https://github.com/yourusername/cloud-infra-templates)
-IaC Terraform scripts to spin up EC2, VPCs, and S3 with proper IAM roles and tagging.
 
-### 📊 [DevOps Dashboard](https://github.com/yourusername/devops-dashboard)
-Monitor EC2 instances and S3 usage with Python + Boto3 + Plotly dashboards.
+### 📊 [Image2pdf Converter](https://github.com/rawatog/Img2pdf-converter)
+A webapp made with fastapi and react to convert images into pdf file.
 
 ---
 
