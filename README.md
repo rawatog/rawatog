@@ -1,6 +1,6 @@
 # 👋 Hi there! I'm Manoj Rawat
 
-🌐 Cloud | 🐍 Python Developer | ⚙️ DevOps Explorer | 🧠 Lifelong Learner | REST API
+🌐 Cloud Engineer | 🐍 Python Developer | ⚙️ DevOps Explorer | 🧠 Lifelong Learner | REST API
 
 ---
 
