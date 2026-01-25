@@ -5,7 +5,7 @@
 ---
 
 ## 💻 About Me
-I'm a telecom engineer turned cloud and software enthusiast. I build full-stack apps, automate infrastructure, and enjoy working with AWS, Docker, and Terraform.
+I'm a cloud engineer and a python developer. I build full-stack apps, automate infrastructure, and enjoy working with AWS, Docker, and Terraform.
 
 Currently learning and building real-world projects with:
 - AWS (S3, EC2, Lambda, IAM)
