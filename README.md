@@ -17,7 +17,7 @@ Currently learning and building real-world projects with:
 
 ## 🚀 Projects
 
-### 📸 [Wally – Image Upload & Management App](https://github.com/rawatog/wally)
+### 📸 [Wally – A Image Sharing Platform](https://github.com/rawatog/wally)
 A full-stack image manager built with Django, React, AWS S3, and JWT auth.  
 **Features:** Upload images, secure login, responsive gallery, Dockerized and deployed to AWS EC2.
 
