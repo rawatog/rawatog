@@ -5,7 +5,7 @@
 ---
 
 ## 💻 About Me
-I'm a cloud engineer and a python developer. I build full-stack apps, automate infrastructure, and enjoy working with AWS, Docker, and Terraform.
+I'm a cloud engineer and a python developer. I build full-stack apps, automate infrastructure, and enjoy working with Cloud and Development.
 
 Currently learning and building real-world projects with:
 - AWS (S3, EC2, Lambda, IAM)
