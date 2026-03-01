@@ -38,11 +38,6 @@ A webapp made with fastapi and react to convert images into pdf file.
 
 ---
 
-## 📈 GitHub Stats
-
-![Rahul's GitHub stats](https://github-readme-stats.vercel.app/api?username=rawatog&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rawatog&layout=compact&theme=tokyonight)
-
 ---
 
 ## 📬 Connect with Me
