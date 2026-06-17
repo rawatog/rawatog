@@ -22,7 +22,7 @@ A full-stack image manager built with Django, React, AWS S3, and JWT auth.
 **Features:** Upload images, secure login, responsive gallery, Dockerized and deployed to AWS EC2.
 
 
-### 📊 [Image2pdf Converter](https://github.com/rawatog/Img2pdf-converter)
+### 📊 [Image2pdf Converter](https://github.com/rawatog/Img2pdf)
 A webapp made with fastapi and react to convert images into pdf file.
 
 ---
