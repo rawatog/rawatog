@@ -25,6 +25,10 @@ A full-stack image manager built with Django, React, AWS S3, and JWT auth.
 ### 📊 [Image2pdf Converter](https://github.com/rawatog/Img2pdf)
 A webapp made with fastapi and react to convert images into pdf file.
 
+### 📊 [URL_Shortener](https://github.com/rawatog/url_shortener)
+A URL Shortener webapp made with completely with fastapi and Jinja Templates.
+
+
 ---
 
 ## 🧰 Tech Stack
