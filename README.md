@@ -1,6 +1,6 @@
 # 👋 Hi there! I'm Manoj Rawat
 
-🌐 Cloud Engineer | 🐍 Python Developer | ⚙️ DevOps | 🧠 Lifelong Learner | REST API
+🌐 Cloud Engineer | 🐍 Python Developer | ⚙️ DevOps | 🧠 Lifelong Learner | K8S
 
 ---
 
@@ -10,7 +10,7 @@ I'm a cloud engineer and a python developer. I build full-stack apps, automate i
 Currently learning and building real-world projects with:
 - AWS (S3, EC2, Lambda, IAM)
 - Python & Django REST Framework
-- Docker, GitHub Actions & Terraform
+- K8S, Docker, GitHub Actions & Terraform
 - React, PostgreSQL, MongoDB
 
 ---
